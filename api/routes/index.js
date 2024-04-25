@@ -11,7 +11,7 @@ require('./AuthRoutes')(router);
 require('./EventRoutes')(router);
 require('./CampsitesRoutes')(router);
 require('./UserRoutes')(router);
-require('./COntactusRoutes')(router);
+require('./ContactusRoutes')(router);
 require('./PackageRoutes')(router)
 
 
